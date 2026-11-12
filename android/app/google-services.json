@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29979317148",
+    "project_id": "fold-flow",
+    "storage_bucket": "fold-flow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29979317148:android:5e9bd1214440aa34782e59",
+        "android_client_info": {
+          "package_name": "com.foldflow.foldflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpthPp7keyP8I9AvP9hxDil6-bPATIrJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
